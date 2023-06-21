@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ANudYWcWm9IG+AiVTHuxvz1JiTlCHy/pgf6y4TCobxpextekhebxtuSK7E0fCu1NgTuVdG13+ySUKJpPHyi/IQ==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\SEM6\\PBKK\\temp\\WeatherForecast\\WeatherForecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
